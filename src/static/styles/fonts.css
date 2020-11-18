@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'IBMPlexSans-Medium';
+    src: local('IBMPlexSans-Medium'),
+         url('../fonts/IBMPlexSans-Medium.woff2') format('woff2'), 
+         url('../fonts/IBMPlexSans-Medium.woff') format('woff'),
+         url('../fonts/IBMPlexSans-Medium.ttf') format('ttf'),
+         url('../fonts/IBMPlexSans-Medium.eot') format('eot');
+}
+
+@font-face {
+    font-family: 'IBMPlexSans-Regular';
+    src: local('IBMPlexSans-Regular'),
+         url('../fonts/IBMPlexSans-Regular.woff2') format('woff2'), 
+         url('../fonts/IBMPlexSans-Regular.woff') format('woff'),
+         url('../fonts/IBMPlexSans-Regular.ttf') format('ttf'),
+         url('../fonts/IBMPlexSans-Regular.eot') format('eot');
+}
+
+@font-face {
+    font-family: 'IBMPlexSans-Bold';
+    src: local('IBMPlexSans-Bold'),
+         url('../fonts/IBMPlexSans-Bold.woff2') format('woff2'), 
+         url('../fonts/IBMPlexSans-Bold.woff') format('woff'),
+         url('../fonts/IBMPlexSans-Bold.ttf') format('ttf'),
+         url('../fonts/IBMPlexSans-Bold.eot') format('eot');
+}
